@@ -1,5 +1,5 @@
 # Terraform-AutoScaling-LB
-In this template, we can deploy EC2 instance with auto-scaling and load balancing feature
+In this Modular Terraform template, we can deploy EC2 instance with auto-scaling and load balancing feature
 
 #Tasks:
 Deploy a VPC with custom CIDR
